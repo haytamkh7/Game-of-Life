@@ -13,3 +13,4 @@ the next state of each cell will be determined based on the standard rules of Co
 
 The initial grid is initialized by the computer with a random cells both alive and dead cells. Then the rules will continue
 to apply, creating further generations.
+![GameOfLifeSs](https://user-images.githubusercontent.com/66912817/156918633-537b9266-d910-454e-b68a-4086717b6f50.png)
